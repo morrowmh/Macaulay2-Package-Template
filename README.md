@@ -1,2 +1,2 @@
 # Macaulay2-Package-Template
-A template for writing and organizing Macaulay2 projects
+This repository is a template for writing and organizing Macaulay2 pacakages. Code can be broken up into several files in the `pkg_src` directory, and compiled into a single package using `compile.py`. The final package is generated in the top directory.
