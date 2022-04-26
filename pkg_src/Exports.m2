@@ -1,5 +1,16 @@
--- From ExampleCode1.m2
-export { "exampleFunction1" }
+export {
+    ------------------------------------
+    -- From ExampleCode2.m2 ------------
+    ------------------------------------
 
--- From ExampleCode2.m2
-export { "exampleFunction2" }
+    -- Methods
+    "exampleFunction2",
+
+    ------------------------------------
+    -- From ExampleCode1.m2 ------------
+    ------------------------------------
+
+    -- Methods
+    "exampleFunction1"
+
+}
