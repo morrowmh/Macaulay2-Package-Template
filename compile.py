@@ -23,6 +23,7 @@ while True:
     else: i = i + 1
 
     if i >= len(lines): break
+    if lines[i].startswith("end"): break
 
 # Output final package
 with open(pkg_name + ".m2", "w") as output:
