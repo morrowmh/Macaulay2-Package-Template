@@ -1,7 +1,5 @@
 -- -*- coding: utf-8 -*-
 
--- Edit the following as necessary. See https://faculty.math.illinois.edu/Macaulay2/doc/Macaulay2-1.18/share/doc/Macaulay2/Macaulay2Doc/html/_new__Package.html for more information.
-
 newPackage("M2Template",
     Headline => "One line description",
     Version => "0.0.0", -- See https://semver.org
